@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ### _This notebook will be maninly used for the_ 
+# # _This notebook will be maninly used for the capstone project__
 
 # In[1]:
 
